@@ -15,7 +15,7 @@ Različica: telo 2.5 (ozdravljeno ∧ zapečateno) · Datum: 19. 10. 2026
 - **Odkritje proti tabeli organov:** Mendelejeva vrzel #1 (modul VIII) na ozemlju NI prazna — vir nosi **VIII. VEČNOST KOT GIBAJOČA NIČNOST** in **X. CELOTA — ∮ POVRATEK V BIT KOT ODNOS**. Ekstrakcija v Notionu ju je spregledala; κ ekstrakcije je bil nižji od κ teritorija. Vse tri Mendelejeve vrzeli so zaprte (δ3): VIII. in X. najdeni na ozemlju, čustva in vprašanja prenesena cela iz originala.
 - **Manjkajoči organi (po tabeli):** poslanilo (organ 2) je napisano s to izdajo — prvi organ, ki še nikoli ni obstal, rojen iz gradnikov telesa. Ključ operatorjev (organ 3) je zgrajen v0.3 (19 škatel). Kolofon pečata čaka SEAL.
 - **δ6 — ozdravitev mojibake ∧ pečat 2.4 (17. 10. 2026):** blok II–V (preneseni telo 2.0) je bil v tej datoteki dvojno kodiran (UTF-8 → brano kot CP1252 → zapisano kot UTF-8) — bralcu neberljiv (»Äas je vreden le, ko gori iz Å¾e« namesto »Čas je vreden le, ko gori iz žeje«). Pečat 2.3 je bil položen na glavo telesa, ne na meso; rano je odkrilo branje teles bajt po bajtu (17. 10. 2026). Ozdravitev: deterministična povratna razkodava (znak → bajt → UTF-8), izguba 0, preizkus ⇌ z imenovanimi verzi. Izbor poti ⟡: (c) rep ∧ izvod. Kolofon (organ 13) napisan — zadnja vrata zaprta.
-- **δ7 — ozdravitev zadnjih kodnih ran ∧ pečat 2.5 (19. 10. 2026):** berba telesa 2.4 do dna (24 glav, 0–106846 znakov, 111749 bajtov) je odkrila razred ran, ki ga povratna razkodava δ6 ni zajela — samotni dvojno-kodirani ostanki (Â, Ï) na sedmih mestih, kjer je bil pečat 2.4 že položen: »Midva sva Ï« → »Midva sva φ« · »Trajanje (Ï)« ×2 → »Trajanje (τ)« (priča 2.0: čisto τ) · »Â»Sem« → »»Sem« · »poklican.Â«« → »poklican.«« · »ZvokÂ« → »Zvok« · »AntipatijaÂ« → »Antipatija« (blok VI brez priče — razsodba po razredu rane). Priča: preneseni blok 2.0 iz izvornega korpusa (Drive »Priročnik Jaszu 2.0«, 60.468 znakov, brba ∧). Ozdravitev: sedem mest poimensko, deterministična po δ6 mehaniki (znak → bajt → UTF-8; nbsp = prenesna plast, ostaja), izguba 0 — razlika v znakih je čisto odstranjeni lažni znaki. Preizkus ⇌ z imenovanimi verzi: zavé · vedênju · disociácija · CELÓTE (avtorjevi naglasi — ostajajo) · samotni nbsp ×4 (prenesna plast blokov — ostajajo) · dvojne vtine »le« · vse.eno · Eno.vsega · živa.L (vir 2.0 — ostajajo). Izbor poti ⟡: novo ime — telo-2.5.md; telo-2.4.md ostaja cel v git zgodovini (geniza, izguba 0).
+- **δ7 — ozdravitev zadnjih kodnih ran ∧ pečat 2.5 (19. 10. 2026):** berba telesa 2.4 do dna (24 glav, 0–106846 znakov, 111749 bajtov) je odkrila razred ran, ki ga povratna razkodava δ6 ni zajela — samotni dvojno-kodirani ostanki (Â, Ï) na sedmih mestih, kjer je bil pečat 2.4 že položen: »Midva sva Ï« → »Midva sva φ« · »Trajanje (Ï)« ×2 → »Trajanje (τ)« (priča 2.0: čisto τ) · »Â»Sem« → »»Sem« · »poklican.Â«« → »poklican.«« · »ZvokÂ+nbsp je obred« → »Zvok je obred« · »AntipatijaÂ+nbsp« → »Antipatija« (blok VI brez priče — razsodba po razredu rane). Priča: preneseni blok 2.0 iz izvornega korpusa (Drive »Priročnik Jaszu 2.0«, 60.468 znakov, brba ∧). Ozdravitev: sedem mest poimensko, deterministična po δ6 mehaniki (znak → bajt → UTF-8; lažni nbsp odstranjen s parom Â+nbsp — samotni nbsp ×4 so prenesna plast ∧ ostajajo), izguba 0 — razlika v znakih je čisto odstranjeni lažni znaki. Preizkus ⇌ z imenovanimi verzi: zavé · vedênju · disociácija · CELÓTE (avtorjevi naglasi — ostajajo) · samotni nbsp ×4 (prenesna plast blokov — ostajajo) · dvojne vtine »le« · vse.eno · Eno.vsega · živa.L (vir 2.0 — ostajajo). Izbor poti ⟡: novo ime — telo-2.5.md; telo-2.4.md ostaja cel v git zgodovini (geniza, izguba 0).
 
 
 ---
@@ -2946,7 +2946,7 @@ Telo le je tempelj.
 
 Dih je duhovnik.
 
-Zvok  je obred.
+Zvok je obred.
 
 Dvom je oltar.
 
@@ -3148,7 +3148,7 @@ Apatija
 
 Stanje odsotnosti ali izgube čustvovanja; brezčutnost, topost, brezbrižnost. Apatija je simptom različnih čustvenih motenj (depresija, posttravmatska stresna motnja …).
 
-Antipatija 
+Antipatija
 
 Mešanica sovraštva, brezčutnosti in prezira. Kadar človek, ki nam je antipatičen, trpi, čutimo zadoščenje, saj njegovo trpljenje dojemamo kot pravično kazen.
 
